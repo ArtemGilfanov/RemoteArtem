@@ -18,7 +18,6 @@ for(int i = 1; i < 10; i++)
     Console.WriteLine(i*i)
 }
 ```
-```
 ```C#
 while(n < 0)
 {
